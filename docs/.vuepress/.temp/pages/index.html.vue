@@ -1,4 +1,4 @@
-<template><div><h1 id="这才是主页" tabindex="-1"><a class="header-anchor" href="#这才是主页" aria-hidden="true">#</a> 这才是主页！</h1>
+<template><div><p>欢迎您来到该网站，愿您能感受到古生物的魅力，学到您想学到的知识.</p>
 </div></template>
 
 
