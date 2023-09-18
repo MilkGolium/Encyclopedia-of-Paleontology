@@ -4,4 +4,5 @@ export const pagesRoutes = [
   ["v-6ce48554","/contributing.html",{"title":"helloa"},[":md"]],
   ["v-fb0f0066","/guide/getting-started.html",{"title":"ok a!"},[":md"]],
   ["v-fffb8e28","/guide/",{"title":"test!!"},["/guide/README.md"]],
+  ["v-8daa1a0e","/",{"title":"这才是主页！"},["/index.md"]],
 ]

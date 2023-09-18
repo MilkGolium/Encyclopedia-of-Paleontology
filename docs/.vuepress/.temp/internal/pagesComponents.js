@@ -11,4 +11,6 @@ export const pagesComponents = {
   "v-fb0f0066": defineAsyncComponent(() => import(/* webpackChunkName: "v-fb0f0066" */"C:/Users/milkg/Desktop/vuepress/docs/.vuepress/.temp/pages/guide/getting-started.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"C:/Users/milkg/Desktop/vuepress/docs/.vuepress/.temp/pages/guide/index.html.vue")),
+  // path: /
+  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/milkg/Desktop/vuepress/docs/.vuepress/.temp/pages/index.html.vue")),
 }
