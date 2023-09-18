@@ -1,0 +1,27 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Voosk",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilkGolium/Encyclopedia-of-Paleontology.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MilkGolium/Encyclopedia-of-Paleontology/issues"
+  },
+  "homepage": "https://github.com/MilkGolium/Encyclopedia-of-Paleontology#readme",
+  "description": "",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.67"
+  }
+}
